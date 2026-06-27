@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>昇氣館中川道場 | 空手道場</title>
+    <style>
+        /* CSSスタイル */
+        :root {
+            --primary: #c00; /* 空手の力強さを表す赤 */
+            --dark: #1a1a1a;
+            --light: #f4f4f4;
+        }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; margin: 0; line-height: 1.6; color: var(--dark); }
+        header { background: var(--dark); color: #fff; padding: 3rem 1rem; text-align: center; border-bottom: 5px solid var(--primary); }
+        h1 { margin: 0; font-size: 2.5rem; letter-spacing: 2px; }
+        .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
+        .hero { background: var(--light); padding: 2rem; border-left: 5px solid var(--primary); margin-bottom: 2rem; }
+        section { margin-bottom: 3rem; }
+        .btn { display: inline-block; background: var(--primary); color: #fff; padding: 0.8rem 2rem; text-decoration: none; font-weight: bold; border-radius: 4px; }
+        footer { background: var(--dark); color: #888; text-align: center; padding: 2rem; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>昇氣館中川道場</h1>
+    <p>己を磨き、氣を昇華させる。伝統空手道場。</p>
+</header>
+
+<div class="container">
+    <section class="hero">
+        <h2>武道精神を育む</h2>
+        <p>昇氣館中川道場では、空手の基本動作を通じて、礼節、忍耐、そして心身の調和を重視しています。初心者から経験者まで、それぞれの目標に合わせて指導を行います。</p>
+    </section>
+
+    <section>
+        <h2>道場案内</h2>
+        <ul>
+            <li><strong>所在地:</strong> 〇〇県〇〇市〇〇町1-2-3</li>
+            <li><strong>稽古日時:</strong> 火・木・土 19:00 - 21:00</li>
+            <li><strong>対象:</strong> 子供から大人まで（初心者大歓迎）</li>
+        </ul>
+    </section>
+
+    <section style="text-align: center;">
+        <h2>無料体験受付中</h2>
+        <p>まずはお気軽に見学・体験にお越しください。</p>
+        <a href="mailto:your-email@example.com" class="btn">お問い合わせはこちら</a>
+    </section>
+</div>
+
+<footer>
+    &copy; 2026 昇氣館中川道場 All Rights Reserved.
+</footer>
+
+</body>
+</html>
